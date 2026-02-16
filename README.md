@@ -30,7 +30,7 @@ The assembly includes hardware placement and fabrication-ready documentation.
 ## Deliverables
 
 - [Assembly STEP Export](deliverables/step/bracket-assembly.step)
-- Individual part STLs
+- [Individual Part STLs](deliverables/stl/)
 - [Fabrication Drawing (PDF)](bracket-assembly-drawing.pdf)
 - Rendered assembly views
 
