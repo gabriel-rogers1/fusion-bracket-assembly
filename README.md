@@ -14,7 +14,7 @@ with constraint-driven geometry and real-world fabrication considerations.
 Geometry is driven by sketch dimensions, allowing predictable design
 modifications while maintaining assembly integrity.
 
-The assembly includes hardware placement and fabrication-ready documentation.
+The assembly model uses constrained component relationships and dimension-driven geometry to support predictable design modifications and clean documentation outputs.
 
 ---
 
@@ -29,16 +29,15 @@ The assembly includes hardware placement and fabrication-ready documentation.
 
 ## Deliverables
 
-- [Assembly STEP Export](deliverables/step/bracket-assembly.step)
-- [Individual Part STLs](deliverables/stl/)
-- [Fabrication Drawing (PDF)](bracket-assembly-drawing.pdf)
-- Rendered assembly views
+- **Fabrication Drawing (PDF)**: [bracket-assembly-drawing.pdf](bracket-assembly-drawing.pdf)  
+- **Assembly STEP Export**: - [Assembly STEP Export](https://github.com/gabriel-rogers1/fusion-bracket-assembly/blob/main/deliverables/step/bracket-assembly.step) 
+- **Individual Part STLs**: [STL files (base, mid, custom screws)](deliverables/stl/) 
 
 ---
 
 ## Notes
 
 This project focuses on maintainable parametric structure and clarity of design
-intent rather than visual styling.
+intent.
 
 
