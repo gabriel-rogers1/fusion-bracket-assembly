@@ -31,7 +31,7 @@ The assembly includes hardware placement and fabrication-ready documentation.
 
 - STEP assembly export
 - Individual part STLs
-- [Fabrication Drawing (PDF)](docs/bracket-assembly-drawing.pdf)
+- [Fabrication Drawing (PDF)](bracket-assembly-drawing.pdf)
 - Rendered assembly views
 
 ---
