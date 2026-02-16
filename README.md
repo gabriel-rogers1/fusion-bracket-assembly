@@ -11,8 +11,10 @@
 This project demonstrates a parametric mechanical bracket assembly designed
 with constraint-driven geometry and real-world fabrication considerations.
 
-The model emphasizes clean timelines, predictable parameters, and
-clear assembly intent.
+Geometry is driven by sketch dimensions, allowing predictable design
+modifications while maintaining assembly integrity.
+
+The assembly includes hardware placement and fabrication-ready documentation.
 
 ---
 
@@ -29,7 +31,7 @@ clear assembly intent.
 
 - STEP assembly export
 - Individual part STLs
-- Dimensioned PDF drawings
+- [Fabrication Drawing (PDF)](docs/bracket-assembly-drawing.pdf)
 - Rendered assembly views
 
 ---
